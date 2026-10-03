@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # Tiêu đề ứng dụng
-st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM TẠI NGÂN HÀNG TRƯƠNG NGỌC TRÂN")
 st.write("Nhập thông tin khoản tiền gửi để tính toán tiền lãi.")
 
 st.divider()
